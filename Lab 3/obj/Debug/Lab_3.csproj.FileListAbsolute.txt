@@ -1,0 +1,11 @@
+D:\rutvi programs\.net\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+D:\rutvi programs\.net\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\rutvi programs\.net\Lab_3\bin\Debug\Lab_3.exe.config
+D:\rutvi programs\.net\Lab_3\bin\Debug\Lab_3.exe
+D:\rutvi programs\.net\Lab_3\bin\Debug\Lab_3.pdb
+D:\rutvi programs\.net\Lab_3\obj\Debug\Lab_3.exe
+D:\rutvi programs\.net\Lab_3\obj\Debug\Lab_3.pdb
+D:\.NET\Lab 3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+D:\.NET\Lab 3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\.NET\Lab 3\obj\Debug\Lab_3.exe
+D:\.NET\Lab 3\obj\Debug\Lab_3.pdb
