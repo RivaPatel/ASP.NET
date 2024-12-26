@@ -1,0 +1,7 @@
+D:\rutvi programs\.net\Lab_2\bin\Debug\Lab_2.exe.config
+D:\rutvi programs\.net\Lab_2\bin\Debug\Lab_2.exe
+D:\rutvi programs\.net\Lab_2\bin\Debug\Lab_2.pdb
+D:\rutvi programs\.net\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+D:\rutvi programs\.net\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+D:\rutvi programs\.net\Lab_2\obj\Debug\Lab_2.exe
+D:\rutvi programs\.net\Lab_2\obj\Debug\Lab_2.pdb
